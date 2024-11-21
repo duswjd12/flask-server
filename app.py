@@ -13,6 +13,11 @@ data = [
     {"name": "김슬기", "dob": "940420", "room": 5, "seat": 12, "exam": 6454}
 ]
 
+# 기본 경로
+@app.route('/')
+def home():
+    return "Server is running!"
+
 # 검색 API
 @app.route('/search', methods=['GET'])
 def search():

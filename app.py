@@ -10,8 +10,8 @@ data = [
     {"name": "김현성", "dob": "920826", "room": 4, "seat": 29, "exam": "m7845"},
     {"name": "이승연", "dob": "800318", "room": 4, "seat": 78, "exam": 9810},
     {"name": "김민우", "dob": "860412", "room": 8, "seat": 54, "exam": 7650},
-    {"name": "김슬기", "dob": "940420", "room": 5, "seat": 12, "exam": 6454}
-    {"name": "이승희", "dob": "951225", "room": 7, "seat": 56, "exam": 6494}
+    {"name": "김슬기", "dob": "940420", "room": 5, "seat": 12, "exam": 6454},
+    {"name": "이승희", "dob": "951225", "room": 7, "seat": 56, "exam": 6494},
     {"name": "이상혁", "dob": "951226", "room": 8, "seat": 13, "exam": 1485}
 ]
 
